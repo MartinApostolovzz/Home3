@@ -168,7 +168,7 @@ body {
     height: 300px;
     justify-content: center;
     margin: 15px;
-    background-image: url("css/j.jpeg");
+    background-image: url("css/j.png");
     filter: brightness(1);
 
     
@@ -845,4 +845,5 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
 
