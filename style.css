@@ -204,7 +204,7 @@ body {
 
 @media (max-width: 600px) {
     .code18 {
-        font-size: 19px;
+        font-size: 16px;
         display: flex;
         color: rgb(255, 255, 255);
         text-align: center;
@@ -233,7 +233,7 @@ body {
 
 .text-super-dev {
     display: flex;
-    font-size: 42px;
+    font-size: 37px;
     color: rgb(255, 255, 255);
     font-family: poppins,sans-serif;
 
